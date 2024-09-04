@@ -54,7 +54,7 @@ class MessageBubble extends StatelessWidget {
             CircleAvatar(
               radius: 23,
               backgroundColor: Colors.grey,
-              backgroundImage: userImage != null ? AssetImage(userImage!) : null,
+              backgroundImage: userImage != null ? NetworkImage(userImage!) : null,
             ),
             // CircleAvatar(
             //   backgroundImage: userImage!,
