@@ -1,5 +1,3 @@
-# Demo Vue3
-* [Pokemon](https://chungvh97.github.io/pokemon/)
 
 # Demo pr-lp.net
 * [pr-lp.net](https://chungvh97.github.io/pr-lp/)
@@ -12,5 +10,7 @@
 * [Meal](https://chungvh97.github.io/meals/)
 
 * [Shopping](https://chungvh97.github.io/shopping_list/)
+
+* [Chat App](https://chungvh97.github.io/chat_app/)
 
 Author - Vũ Huy Chung
