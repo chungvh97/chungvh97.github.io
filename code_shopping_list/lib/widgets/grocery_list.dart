@@ -77,7 +77,7 @@ class _GroceryListState extends State<GroceryList> {
 
   void _removeItem(GroceryItem item) async {
     final index = _groceryItems.indexOf(item);
-    final url = Uri.https('flutter-prep-duyn-default-rtdb.firebaseio.com',
+    final url = Uri.https('https://shopping-2dcf2-default-rtdb.firebaseio.com/',
         'shopping-list/${item.id}.json');
     final response = await http.delete(url);
     if(response.statusCode >= 400) {

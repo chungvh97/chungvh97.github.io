@@ -78766,7 +78766,7 @@ a7Z(a){var s=0,r=A.S(t.H),q=this,p
 var $async$vI=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:p=B.b.eO(q.d,a)
 s=2
-return A.W(A.arR(A.ajm("https",u.H,"shopping-list/"+a.a+".json",null)),$async$vI)
+return A.W(A.arR(A.ajm("https","https://shopping-2dcf2-default-rtdb.firebaseio.com/","shopping-list/"+a.a+".json",null)),$async$vI)
 case 2:if(c.b>=400)q.ag(new A.aaL(q,p,a))
 else q.ag(new A.aaM(q,a))
 return A.Q(null,r)}})
