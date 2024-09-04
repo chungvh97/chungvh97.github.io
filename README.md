@@ -13,4 +13,6 @@
 
 * [Shopping](https://chungvh97.github.io/shopping_list/)
 
+* [Chat App](https://chungvh97.github.io/chat_app/)
+
 Author - Vũ Huy Chung
