@@ -7,8 +7,10 @@
 # Flutter
 * [Todo app](https://chungvh97.github.io/flutter-training/)
 
-* [Meal](https://chungvh97.github.io/meals/build/web)
+* [Quiz](https://chungvh97.github.io/quiz/)
 
-* [Shopping](https://chungvh97.github.io/shopping_list/build/web)
+* [Meal](https://chungvh97.github.io/meals/)
+
+* [Shopping](https://chungvh97.github.io/shopping_list/)
 
 Author - Vũ Huy Chung
