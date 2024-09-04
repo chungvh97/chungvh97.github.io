@@ -48,9 +48,7 @@ class _UserImagePickerState extends State<UserImagePicker> {
         CircleAvatar(
           radius: 40,
           backgroundColor: Colors.grey,
-          backgroundImage: _pickedAvatar != null ? AssetImage(_pickedAvatar!) : null,
-          // foregroundImage:
-          //     _pickedImageFile != null ? FileImage(_pickedImageFile!) : null,
+          backgroundImage: _pickedAvatar != null ? NetworkImage(_pickedAvatar!) : null,
         ),
         const SizedBox(height: 10,),
         ElevatedButton(

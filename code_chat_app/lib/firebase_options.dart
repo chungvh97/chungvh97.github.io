@@ -53,13 +53,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-	apiKey: "AIzaSyBFQF5a3d6WWBL1C5cE6E--32zL8aOuABg",
-	authDomain: "flutter-chat-app-22886.firebaseapp.com",
-	databaseURL: "https://flutter-chat-app-22886-default-rtdb.firebaseio.com",
-	projectId: "flutter-chat-app-22886",
-	storageBucket: "flutter-chat-app-22886.appspot.com",
-	messagingSenderId: "213062266609",
-	appId: "1:213062266609:web:37eeff603f46858ce38350"
+    apiKey: "AIzaSyDcWyGvLfwlCbM8N46jTR6USg1GlA1hG-w",
+    authDomain: "chat-app-8d53b.firebaseapp.com",
+    projectId: "chat-app-8d53b",
+    storageBucket: "chat-app-8d53b.appspot.com",
+    messagingSenderId: "340311672510",
+    appId: "1:340311672510:web:4b9cd2af84c3cbaf8a00ef"
   );
 
 }
