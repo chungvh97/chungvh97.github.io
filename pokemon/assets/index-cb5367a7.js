@@ -1,1 +1,0 @@
-import{d as e,c as _,o as n,_ as o}from"./index-c2956d18.js";const t=e({__name:"index",setup(c){return(a,s)=>(n(),_("h1",null,"Home"))}});const d=o(t,[["__scopeId","data-v-5bcfa758"]]);export{d as default};

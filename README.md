@@ -1,13 +1,16 @@
+# shopping
 
-# Flutter
-* [Todo app](https://chungvh97.github.io/flutter-training/)
+A new Flutter project.
 
-* [Quiz](https://chungvh97.github.io/quiz/)
+## Getting Started
 
-* [Meal](https://chungvh97.github.io/meals/)
+This project is a starting point for a Flutter application.
 
-* [Shopping](https://chungvh97.github.io/shopping_list/)
+A few resources to get you started if this is your first Flutter project:
 
-* [Chat App](https://chungvh97.github.io/chat_app/)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Author - Vũ Huy Chung
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
