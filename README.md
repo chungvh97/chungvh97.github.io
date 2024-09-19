@@ -10,4 +10,5 @@
 
 * [Chat App](https://chungvh97.github.io/chat_app/)
 
+* [Demo layout](https://chungvh97.github.io/layout_shopping/)
 Author - Vũ Huy Chung
